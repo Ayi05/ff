@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/c9cd25b7-9e63-443a-9f9b-f7d2a536727a/AppServices/subscriptions/c9cd25b7-9e63-443a-9f9b-f7d2a536727a/resourceGroups/Ajavonwebnode/providers/Microsoft.Web/sites/FastFocus",
-    "appService.deploySubpath": "."
-}
