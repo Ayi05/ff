@@ -1,7 +1,7 @@
 const express = require('express');
-const taskController = require("../controllers/TaskController");
+const taskController = require("./controllers/TaskController");
 
-require("../config/db")
+require("./config/db")
 const app = express();
 
 const port = process.env.PORT || 7500;
