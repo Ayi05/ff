@@ -7,7 +7,7 @@ const options = { useNewUrlParser: true, useUnifiedTopology: true };
 
 mongoose.connect(uri, options)
     .then(() => { 
-        console.log('Connexion Établie!...') 
+        console.log('Connexion avec Atlas Établie!...') 
     },
     err => { 
         console.log('Erreur lors de la connexion:', err)
